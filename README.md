@@ -2,7 +2,7 @@
 
 Este é um projeto de **clone do YouTube**, desenvolvido para fins educacionais, com o objetivo de replicar a interface e funcionalidades principais do YouTube. O projeto foi feito utilizando **HTML** e **CSS**, com foco na construção de uma interface intuitiva e responsiva.
 
----
+--- 
 
 ## Funcionalidades 🌟
 
