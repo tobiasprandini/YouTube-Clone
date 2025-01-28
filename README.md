@@ -18,7 +18,7 @@ Este é um projeto de **clone do YouTube**, desenvolvido para fins educacionais,
 
 Aqui está um print da interface do projeto:
 
-![Screenshot](images/youtube-clone.jpg)
+![Screenshot](thumbnails/youtube-clone.jpg)
 
 ---
 
@@ -33,4 +33,4 @@ Aqui está um print da interface do projeto:
 
 1. **Clone o repositório** para sua máquina:
    ```bash
-   git clone https://github.com/tobiasprandini/YouTube-clone.git
+   git clone https://github.com/tobiasprandini/youtube-clone.git
