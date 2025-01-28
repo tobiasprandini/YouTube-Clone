@@ -2,8 +2,6 @@
 
 Este é um projeto de **clone do YouTube**, desenvolvido para fins educacionais, com o objetivo de replicar a interface e funcionalidades principais do YouTube. O projeto foi feito utilizando **HTML** e **CSS**, com foco na construção de uma interface intuitiva e responsiva.
 
---- 
-
 ## Funcionalidades 🌟
 
 - **Página inicial**: Exibe uma lista de vídeos, com títulos, miniaturas (thumbnails) e descrições.
@@ -27,7 +25,11 @@ Aqui está um print da interface do projeto:
 - **HTML5**: Estruturação do conteúdo e layout da página.
 - **CSS3**: Estilização e responsividade do layout.
 
----
+## Visualize o Projeto ao Vivo 🚀
+
+Você pode visualizar o projeto ao vivo clicando no link abaixo:
+
+[**YouTube Clone**](https://tobias-youtube-clone.netlify.app/)
 
 ## Como Rodar o Projeto 🚀
 
