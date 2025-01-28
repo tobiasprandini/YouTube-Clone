@@ -18,7 +18,7 @@ Este é um projeto de **clone do YouTube**, desenvolvido para fins educacionais,
 
 Aqui está um print da interface do projeto:
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/youtube-clone.jpg)
 
 ---
 
