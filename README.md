@@ -33,4 +33,4 @@ Aqui está um print da interface do projeto:
 
 1. **Clone o repositório** para sua máquina:
    ```bash
-   git clone https://github.com/tobiasprandini/youtube-clone.git
+   git clone https://github.com/tobiasprandini/YouTube-Clone.git
